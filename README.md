@@ -1,2 +1,3 @@
 # GitHubMiniLesson
 We are experimenting with GitHub...
+(here is another edit from Mac)
